@@ -1,0 +1,3 @@
+#!/bin/bash
+ls --sort=size -1a *.gif
+

@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -1 *.tsv|cut -f 1| head -n 11
+
